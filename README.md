@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd3Ym5zOWthOThwbXpweHU5cnBhejN4YnQ3bHRwZHA3NG5wZHQ2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="200"/>
 
 <!--
 **nikopolllx/nikopolllx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
