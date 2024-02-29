@@ -1,4 +1,4 @@
-
+# Binbenidos a este repo donde  cosa interesates pruebalos y disfruta con la tecnologia
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/nikopolllx) 
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/nikopolllx)
 
