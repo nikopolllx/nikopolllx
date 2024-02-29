@@ -1,4 +1,4 @@
-# Bienvenidos a este repo donde hay cosas interesates pruebalas y disfruta de la tecnologia
+# Bienvenidos a este repo donde hay cosas interesates pruebalas y disfruta de la tecgnologia
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/) 
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/nikopolllx)
