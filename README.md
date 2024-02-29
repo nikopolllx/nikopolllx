@@ -1,6 +1,6 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/nikopolllx) 
-![Nginx](https://github.com/nikopolllx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+[![Nginx](https://github.com/nikopolllx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/nikopolllx)
 
 
 Here are some ideas to get you started:
