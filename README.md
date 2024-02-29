@@ -1,6 +1,7 @@
-# Bimbenidos a este repo donde hay cosas interesates pruebalas y disfruta de la tecnologia
+# Bienvenidos a este repo donde hay cosas interesates pruebalas y disfruta de la tecnologia
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/nikopolllx) 
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/nikopolllx)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@dianlinux)
 
 
 Here are some ideas to get you started:
