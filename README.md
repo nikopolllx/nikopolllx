@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-![nikopolllx ' Github stats ]https://github-readme-stats.vercel.app/api?username=nikopollx&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikopolllx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
