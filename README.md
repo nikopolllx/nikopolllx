@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-![nikopolllx' GitHub stats](https://github-readme-stats.vercel.app/api?username=nikopolllx&show_icons=true&theme=radical)
+![nikopolllx' GitHub stats](https://github-readme-stats.vercel.app/api?username=nikopolllx&show_icons=true&theme=dracula)
